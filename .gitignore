@@ -1,3 +1,17 @@
 /venv
 /Data
 /original_music
+/FINAL.ipynb
+/new
+
+
+# Ignore all files
+*
+
+# Except for specific notebooks
+!thesis_optimized.ipynb
+!thesis_baseline.ipynb
+!thesis_featureExtraction.ipynb
+!thesis_testing.ipynb
+!saved_data.joblib
+!saved_labels.joblib
